@@ -1,0 +1,2 @@
+str = "iamtheworld"
+print(str[2:9:2])
